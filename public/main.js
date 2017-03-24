@@ -6,8 +6,8 @@
 
 const main = () => {
   let hueVal = 0
-  let satVal = 0
-  let lightVal = 0
+  let satVal = 50
+  let lightVal = 50
 
   const hueSlider = document.querySelector('input[name=hue]')
   const satSlider = document.querySelector('input[name=sat]')
